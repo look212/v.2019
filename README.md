@@ -5,3 +5,42 @@
 
 SKILL : html, css, javascript, jquery
 Tool : trello, slack, notion, figma, svn, git
+
+## Initial  setup
+
+```
+$ npm install vue
+$ cd ../
+$ vue create portfolio
+$ cd portfolio
+$ npm install vue-router
+$ yarn add vuex
+$ yarn add es6-promise
+$ npm run serve || yarn 
+$ img vue ui
+$ img git subtree push --prefix dist origin gh-pages
+```
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+

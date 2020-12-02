@@ -16,9 +16,9 @@ $ cd portfolio
 $ npm install vue-router
 $ yarn add vuex
 $ yarn add es6-promise
-$ npm run serve || yarn 
-$ img vue ui
-$ img git subtree push --prefix dist origin gh-pages
+$ npm run serve || yarn serve
+$ vue ui
+$ git subtree push --prefix dist origin gh-pages
 ```
 
 ## Project setup
